@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands\Point;
+namespace App\Console\Commands\PointArchive;
 
 use App\Libraries\SendMsg\SendMsg;
 use App\Repositories\User\Interfaces\UserRepoInterface;
