@@ -6,7 +6,7 @@ use App\Libraries\SendMsg\SendMsg;
 use App\Repositories\User\Interfaces\UserRepoInterface;
 use App\Traits\RepoTrait;
 
-class Issu1
+class Issue1
 {
     use RepoTrait;
 
