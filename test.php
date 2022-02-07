@@ -6,7 +6,7 @@ use App\Libraries\SendMsg\SendMsg;
 use App\Repositories\User\Interfaces\UserRepoInterface;
 use App\Traits\RepoTrait;
 
-class Example
+class Test
 {
     use RepoTrait;
 
