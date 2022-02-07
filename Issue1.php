@@ -38,7 +38,7 @@ class Issue1
      */
     public function shouldSendBizTalk(): bool
     {
-        return true;
+        return false;
     }
 
     /*
@@ -57,7 +57,7 @@ class Issue1
     public function getPackages(): array
     {
         return [
-            ['customer_id' => 1, 'recv_amt' => 100, 'title' => 'TEST POINT', 'validity_value' => 1, 'phone' => '01000000000'],
+            ['customer_id' => 1, 'recv_amt' => 100, 'title' => 'TEST POINT', 'validity_value' => 1, 'phone' => ''],
         ];
     }
 }
